@@ -4,13 +4,16 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
+My name is Ngniguepa Therence. I have the following qualities:
+- Mobile Development 
+- Web development 
+- Fullstack developper
+- Python developper
+- Machine learning 
+- Deep Learning 
 
 What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I'm a student to bachelor degree at bandjou institute and i'm open to work an collaboration on mobile project, machine learning project and some project that described on my personnel qualities.I'm also open to freelance.We can follow me at Linkedin at https://www.linkedin.com/in/therence-ngniguepa-648750222?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoDnEa7dYRpqlKevrCqTmnw%3D%3D
