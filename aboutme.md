@@ -1,6 +1,6 @@
 ---
-layout: About me
-title: About me
+layout: page
+title: Portfolio
 subtitle: My Personal Portfolio
 ---
 
