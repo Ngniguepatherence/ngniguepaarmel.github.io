@@ -50,17 +50,17 @@ round-avatar: true
 social-network-links:
   email: "ngniguepafaha@gmail.com"
   facebook: Therence Ngniguepa
-  github: Ngniguepatherence
+  github: JohnNeper
   youtube: Therence Ngniguepa
-  medium: Ngniguepa Therence
+#   medium: Ngniguepa Therence
 #  reddit: yournam
   linkedin: Therence Ngniguepa
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: ntconsult
+#   instagram: ntconsult
 #  spotify: yourname
-  telephone: +237659085239
+#   telephone: +237659085239
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -70,7 +70,7 @@ social-network-links:
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 #  discord: invite/invite_code or users/userid 
-#  kaggle: yourname
+ kaggle: Ngniguepa Faha
 #  hackerrank: yourname
 
 # If you want your website to generate an RSS feed, provide a description
@@ -121,14 +121,14 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAAA"
+navbar-col: "#FFF"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
+footer-col: "#F5F5F5"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
